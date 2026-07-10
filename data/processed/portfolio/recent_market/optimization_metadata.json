@@ -1,0 +1,8 @@
+{
+    "start_date": "2021-01-04 00:00:00",
+    "end_date": "2026-07-09 00:00:00",
+    "rebalance_freq": "ME",
+    "objective": "max_sharpe",
+    "commission_bps": 1.0,
+    "slippage_bps": 5.0
+}

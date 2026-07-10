@@ -8,6 +8,7 @@
 data/raw/
 data/logs/
 data/processed/features/
+create_notebook.py
 
 # Python cache
 __pycache__/
@@ -20,6 +21,7 @@ __pycache__/
 build/
 dist/
 *.egg-info/
+*.ps1
 
 # IDE
 .vscode/
