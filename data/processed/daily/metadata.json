@@ -1,0 +1,11 @@
+{
+    "PipelineVersion": "2.0.0",
+    "DataVersion": "1.0.0",
+    "CreationTimestamp": "2026-07-10T18:38:27.854030",
+    "GitHash": "unknown",
+    "PythonVersion": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+    "PandasVersion": "3.0.3",
+    "MasterTimezone": "America/New_York",
+    "NumberEquities": 503,
+    "NumberMacroFeatures": 173
+}

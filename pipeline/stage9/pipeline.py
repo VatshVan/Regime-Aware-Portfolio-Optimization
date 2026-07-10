@@ -24,7 +24,12 @@ def run_stage9():
     master_df = training.build_master_dataset()
     
     # Identify feature columns
-    exclude_cols = ['Datetime', 'EventTime', 'Ticker', 'Label', 'Label_Index', 'SampleWeight', 'bootstrapped_index']
+    exclude_cols = [
+        'Datetime', 'EventTime', 'Ticker', 'Label', 'Label_Index', 
+        'SampleWeight', 'bootstrapped_index', 'ExitPrice', 'ExitTime', 
+        'Return', 'HoldingPeriod', 'BarrierHit', 'ProfitBarrier', 
+        'StopLossBarrier', 'VerticalBarrierTime', 'EventPrice', 'DailyVolatility'
+    ]
     potential_features = [c for c in master_df.columns if c not in exclude_cols]
     
     # Strictly enforce numeric types for ML

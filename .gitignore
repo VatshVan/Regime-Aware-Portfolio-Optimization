@@ -5,7 +5,9 @@
 .env
 
 # Data
-data/
+data/raw/
+data/logs/
+data/processed/features/
 
 # Python cache
 __pycache__/

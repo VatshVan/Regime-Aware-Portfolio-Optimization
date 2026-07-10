@@ -1,0 +1,7 @@
+{
+    "pipeline_version": "6.0",
+    "total_labels": 1146473,
+    "mean_uniqueness": 0.001638772698719954,
+    "bootstrap_sample_size": 500000,
+    "bootstrap_random_seed": 42
+}

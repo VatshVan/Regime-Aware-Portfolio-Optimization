@@ -1,0 +1,10 @@
+Component,Status,Details
+Rolling High/Low,PASS,Uses rolling(h_days).max() and compares to current close without forward peeking
+Price Breakout,PASS,Uses r_high.shift(1) correctly
+Momentum/ROC,PASS,Uses c / c.shift(h_days) correctly
+Realized Volatility,PASS,Uses rolling(h_days).std() without centering
+EWMA Volatility,PASS,Uses ewm(span) without lookahead smoothing
+MACD,PASS,Uses ewm(adjust=False) which is backward looking
+Volume Z-Score,PASS,Uses rolling mean/std correctly
+Cross-Asset RS,PASS,Returns are calculated strictly using shift(1)
+Fractional Differentiation,PASS,Weights decay strictly backwards in time

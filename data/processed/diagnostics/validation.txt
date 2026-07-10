@@ -1,0 +1,279 @@
+=== Ingestion Pipeline Validation Report ===
+
+--- Vendor Anomalies ---
+Dataset: brent_crude
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 4714
+Violations: 32 (0.68%)
+Examples: 2007-12-24 00:00:00, 2008-06-06 00:00:00, 2008-06-18 00:00:00, 2008-09-17 00:00:00, 2008-09-26 00:00:00
+
+Dataset: brent_crude
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 4714
+Violations: 37 (0.78%)
+Examples: 2008-05-22 00:00:00, 2008-09-09 00:00:00, 2008-09-29 00:00:00, 2008-10-06 00:00:00, 2008-10-10 00:00:00
+
+Dataset: coffee_futures
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 6647
+Violations: 330 (4.96%)
+Examples: 2006-09-08 00:00:00, 2006-09-15 00:00:00, 2006-09-18 00:00:00, 2006-12-11 00:00:00, 2006-12-13 00:00:00
+
+Dataset: coffee_futures
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 6647
+Violations: 386 (5.81%)
+Examples: 2006-09-06 00:00:00, 2006-09-07 00:00:00, 2006-09-08 00:00:00, 2006-09-11 00:00:00, 2006-09-14 00:00:00
+
+Dataset: copper_futures
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 6492
+Violations: 170 (2.62%)
+Examples: 2003-05-13 00:00:00, 2003-06-20 00:00:00, 2003-06-24 00:00:00, 2003-06-25 00:00:00, 2003-08-01 00:00:00
+
+Dataset: copper_futures
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 6492
+Violations: 134 (2.06%)
+Examples: 2003-05-07 00:00:00, 2003-05-14 00:00:00, 2003-05-22 00:00:00, 2003-06-05 00:00:00, 2003-06-06 00:00:00
+
+Dataset: corn_futures
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 6499
+Violations: 394 (6.06%)
+Examples: 2000-09-08 00:00:00, 2000-09-11 00:00:00, 2000-09-22 00:00:00, 2000-09-25 00:00:00, 2000-09-27 00:00:00
+
+Dataset: corn_futures
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 6499
+Violations: 437 (6.72%)
+Examples: 2000-09-13 00:00:00, 2000-09-18 00:00:00, 2000-09-20 00:00:00, 2000-09-21 00:00:00, 2000-10-18 00:00:00
+
+Dataset: cotton_futures
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 6649
+Violations: 235 (3.53%)
+Examples: 2006-09-28 00:00:00, 2006-10-05 00:00:00, 2007-02-12 00:00:00, 2007-04-27 00:00:00, 2007-05-03 00:00:00
+
+Dataset: cotton_futures
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 6649
+Violations: 326 (4.9%)
+Examples: 2006-09-26 00:00:00, 2006-10-02 00:00:00, 2006-10-04 00:00:00, 2006-10-06 00:00:00, 2006-10-09 00:00:00
+
+Dataset: gold
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 6487
+Violations: 236 (3.64%)
+Examples: 2003-04-29 00:00:00, 2003-04-30 00:00:00, 2003-05-01 00:00:00, 2003-05-08 00:00:00, 2003-05-09 00:00:00
+
+Dataset: gold
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 6487
+Violations: 227 (3.5%)
+Examples: 2001-02-13 00:00:00, 2003-05-02 00:00:00, 2003-05-07 00:00:00, 2003-05-16 00:00:00, 2003-07-02 00:00:00
+
+Dataset: lumber_futures
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 5723
+Violations: 24 (0.42%)
+Examples: 2008-10-30 00:00:00, 2008-11-03 00:00:00, 2008-11-05 00:00:00, 2008-11-14 00:00:00, 2008-11-19 00:00:00
+
+Dataset: lumber_futures
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 5723
+Violations: 55 (0.96%)
+Examples: 2007-05-22 00:00:00, 2008-11-12 00:00:00, 2009-01-12 00:00:00, 2009-01-26 00:00:00, 2009-02-18 00:00:00
+
+Dataset: natural_gas
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 6493
+Violations: 19 (0.29%)
+Examples: 2001-07-06 00:00:00, 2001-07-11 00:00:00, 2001-09-17 00:00:00, 2001-10-08 00:00:00, 2001-11-20 00:00:00
+
+Dataset: natural_gas
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 6493
+Violations: 13 (0.2%)
+Examples: 2001-11-02 00:00:00, 2001-12-21 00:00:00, 2002-01-30 00:00:00, 2002-03-13 00:00:00, 2002-05-01 00:00:00
+
+Dataset: palladium_futures
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 6210
+Violations: 244 (3.93%)
+Examples: 2000-03-03 00:00:00, 2000-03-06 00:00:00, 2000-03-07 00:00:00, 2000-03-08 00:00:00, 2000-05-31 00:00:00
+
+Dataset: palladium_futures
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 6210
+Violations: 208 (3.35%)
+Examples: 2000-03-02 00:00:00, 2000-03-09 00:00:00, 2000-03-10 00:00:00, 2000-03-13 00:00:00, 2000-03-14 00:00:00
+
+Dataset: platinum_futures
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 5971
+Violations: 232 (3.89%)
+Examples: 2000-01-12 00:00:00, 2000-01-13 00:00:00, 2000-01-18 00:00:00, 2000-01-19 00:00:00, 2000-01-25 00:00:00
+
+Dataset: platinum_futures
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 5971
+Violations: 214 (3.58%)
+Examples: 2000-01-11 00:00:00, 2000-01-26 00:00:00, 2000-04-05 00:00:00, 2000-04-14 00:00:00, 2000-04-17 00:00:00
+
+Dataset: silver
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 6489
+Violations: 129 (1.99%)
+Examples: 2006-10-06 00:00:00, 2006-12-13 00:00:00, 2006-12-27 00:00:00, 2006-12-28 00:00:00, 2007-01-03 00:00:00
+
+Dataset: silver
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 6489
+Violations: 115 (1.77%)
+Examples: 2006-10-05 00:00:00, 2006-10-11 00:00:00, 2006-11-13 00:00:00, 2006-12-08 00:00:00, 2006-12-29 00:00:00
+
+Dataset: soybean_futures
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 6491
+Violations: 442 (6.81%)
+Examples: 2000-11-14 00:00:00, 2000-11-22 00:00:00, 2001-01-09 00:00:00, 2001-03-13 00:00:00, 2001-05-02 00:00:00
+
+Dataset: soybean_futures
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 6491
+Violations: 405 (6.24%)
+Examples: 2000-11-10 00:00:00, 2001-09-06 00:00:00, 2002-01-11 00:00:00, 2002-01-14 00:00:00, 2002-04-11 00:00:00
+
+Dataset: sugar_futures
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 6610
+Violations: 8 (0.12%)
+Examples: 2008-06-30 00:00:00, 2009-09-30 00:00:00, 2015-06-30 00:00:00, 2017-04-28 00:00:00, 2018-04-30 00:00:00
+
+Dataset: sugar_futures
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 6610
+Violations: 3 (0.05%)
+Examples: 2012-04-30 00:00:00, 2014-02-28 00:00:00, 2019-06-28 00:00:00
+
+Dataset: wheat_futures
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 6511
+Violations: 384 (5.9%)
+Examples: 2000-09-06 00:00:00, 2000-12-05 00:00:00, 2001-03-12 00:00:00, 2001-05-11 00:00:00, 2001-05-14 00:00:00
+
+Dataset: wheat_futures
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 6511
+Violations: 451 (6.93%)
+Examples: 2000-09-05 00:00:00, 2000-09-08 00:00:00, 2000-09-11 00:00:00, 2000-09-12 00:00:00, 2000-09-13 00:00:00
+
+Dataset: wti_crude
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 6496
+Violations: 3 (0.05%)
+Examples: 2001-06-08 00:00:00, 2001-12-14 00:00:00, 2002-03-26 00:00:00
+
+Dataset: wti_crude
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 6496
+Violations: 4 (0.06%)
+Examples: 2001-04-10 00:00:00, 2001-09-17 00:00:00, 2002-02-25 00:00:00, 2002-05-21 00:00:00
+
+Dataset: aud_usd
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 5242
+Violations: 65 (1.24%)
+Examples: 2010-07-01 00:00:00, 2010-11-25 00:00:00, 2010-12-15 00:00:00, 2011-02-21 00:00:00, 2011-02-22 00:00:00
+
+Dataset: aud_usd
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 5242
+Violations: 77 (1.47%)
+Examples: 2008-05-07 00:00:00, 2010-09-08 00:00:00, 2010-10-14 00:00:00, 2010-12-28 00:00:00, 2011-01-12 00:00:00
+
+Dataset: eur_usd
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 5866
+Violations: 54 (0.92%)
+Examples: 2005-10-05 00:00:00, 2005-11-30 00:00:00, 2007-03-15 00:00:00, 2010-07-01 00:00:00, 2010-09-07 00:00:00
+
+Dataset: eur_usd
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 5866
+Violations: 73 (1.24%)
+Examples: 2004-04-21 00:00:00, 2004-11-08 00:00:00, 2005-06-14 00:00:00, 2006-08-08 00:00:00, 2007-08-21 00:00:00
+
+Dataset: gbp_usd
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 5878
+Violations: 53 (0.9%)
+Examples: 2005-05-10 00:00:00, 2005-10-05 00:00:00, 2007-01-29 00:00:00, 2007-07-17 00:00:00, 2008-10-13 00:00:00
+
+Dataset: gbp_usd
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 5878
+Violations: 49 (0.83%)
+Examples: 2004-12-28 00:00:00, 2005-11-10 00:00:00, 2005-12-26 00:00:00, 2006-05-15 00:00:00, 2006-06-05 00:00:00
+
+Dataset: nzd_usd
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 5867
+Violations: 181 (3.09%)
+Examples: 2003-12-01 00:00:00, 2003-12-02 00:00:00, 2003-12-09 00:00:00, 2004-01-05 00:00:00, 2004-01-08 00:00:00
+
+Dataset: nzd_usd
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 5867
+Violations: 184 (3.14%)
+Examples: 2003-12-22 00:00:00, 2004-01-06 00:00:00, 2004-01-15 00:00:00, 2004-01-19 00:00:00, 2004-01-29 00:00:00
+
+Dataset: usd_cad
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 5934
+Violations: 56 (0.94%)
+Examples: 2004-06-25 00:00:00, 2005-02-18 00:00:00, 2006-02-10 00:00:00, 2008-01-21 00:00:00, 2008-10-15 00:00:00
+
+Dataset: usd_cad
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 5934
+Violations: 57 (0.96%)
+Examples: 2004-12-29 00:00:00, 2010-07-01 00:00:00, 2011-09-22 00:00:00, 2011-11-21 00:00:00, 2012-05-08 00:00:00
+
+Dataset: usd_chf
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 5932
+Violations: 47 (0.79%)
+Examples: 2006-08-08 00:00:00, 2009-02-23 00:00:00, 2012-01-09 00:00:00, 2013-01-02 00:00:00, 2013-11-11 00:00:00
+
+Dataset: usd_chf
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 5932
+Violations: 54 (0.91%)
+Examples: 2005-08-24 00:00:00, 2005-10-05 00:00:00, 2010-07-28 00:00:00, 2010-08-10 00:00:00, 2011-01-03 00:00:00
+
+Dataset: usd_jpy
+Issue: Vendor Inconsistency (High < max(Open, Close))
+Rows checked: 6886
+Violations: 133 (1.93%)
+Examples: 2005-12-26 00:00:00, 2006-02-20 00:00:00, 2007-05-22 00:00:00, 2007-11-30 00:00:00, 2010-10-01 00:00:00
+
+Dataset: usd_jpy
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 6886
+Violations: 125 (1.82%)
+Examples: 2005-01-28 00:00:00, 2006-10-16 00:00:00, 2008-01-21 00:00:00, 2008-03-10 00:00:00, 2008-12-16 00:00:00
+
+Dataset: sp500_constituents_daily
+Issue: Vendor Inconsistency (Low > min(Open, Close))
+Rows checked: 2931354
+Violations: 1 (0.0%)
+Examples: 1365384
+
+--- Informational Notes ---
+Dataset: wti_crude
+Note: Informational Note (Price <= 0)
+Occurrences: 2 (0.03%)
+Examples: 2020-04-20 00:00:00, 2020-04-21 00:00:00
+

@@ -1,0 +1,8 @@
+{
+    "pipeline_version": "7.0",
+    "n_folds": 5,
+    "embargo_pct": 0.01,
+    "embargo_size_in_dates": 66,
+    "avg_train_size": 908033.4,
+    "avg_test_size": 229294.6
+}

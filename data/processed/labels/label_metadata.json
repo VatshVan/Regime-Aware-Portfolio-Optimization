@@ -1,0 +1,10 @@
+{
+    "pipeline_version": "4.0",
+    "pt_multiplier": 1.0,
+    "sl_multiplier": 1.0,
+    "vertical_barrier_days": 5,
+    "collision_policy": "conservative",
+    "total_events_processed": 1146604,
+    "total_labels_generated": 1146473,
+    "runtime_seconds": 64.01129170000786
+}

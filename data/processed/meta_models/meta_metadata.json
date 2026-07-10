@@ -1,0 +1,39 @@
+{
+    "pipeline_version": "10.0",
+    "primary_model": "xgboost",
+    "n_samples": 1077632,
+    "metrics": {
+        "accuracy": 0.516993741833947,
+        "precision": 0.46806027308280446,
+        "recall": 0.5732000107718663,
+        "f1": 0.5153219761340516,
+        "classification_report": {
+            "0": {
+                "precision": 0.5764611804561974,
+                "recall": 0.47138392954699415,
+                "f1-score": 0.5186540145688395,
+                "support": 594893.0
+            },
+            "1": {
+                "precision": 0.46806027308280446,
+                "recall": 0.5732000107718663,
+                "f1-score": 0.5153219761340516,
+                "support": 482739.0
+            },
+            "accuracy": 0.516993741833947,
+            "macro avg": {
+                "precision": 0.522260726769501,
+                "recall": 0.5222919701594302,
+                "f1-score": 0.5169879953514456,
+                "support": 1077632.0
+            },
+            "weighted avg": {
+                "precision": 0.5279016113040895,
+                "recall": 0.516993741833947,
+                "f1-score": 0.5171613854505773,
+                "support": 1077632.0
+            }
+        }
+    },
+    "random_seed": 42
+}

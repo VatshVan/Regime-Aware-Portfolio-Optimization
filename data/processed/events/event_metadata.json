@@ -1,0 +1,14 @@
+{
+    "pipeline_version": "3.0",
+    "volatility_span": 100,
+    "cusum_threshold_multiplier": 1.0,
+    "use_log_returns": true,
+    "total_events": 1146604,
+    "average_events_per_stock": 2279.530815109344,
+    "runtime_seconds": {
+        "Returns": 0.3045200000051409,
+        "Volatility": 0.681846499996027,
+        "CUSUM": 2.756136299998616,
+        "Total": 4.0041631999920355
+    }
+}

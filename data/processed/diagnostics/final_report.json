@@ -1,0 +1,16 @@
+{
+    "pipeline_version": "11.0",
+    "calibration": {
+        "brier_score": 0.25038256574479406,
+        "log_loss": 0.6939366027100529,
+        "roc_auc": 0.5301904706046405
+    },
+    "profit_lift": {
+        "base_accuracy": 0.4479627553747476,
+        "filtered_accuracy": 0.46806027308280446,
+        "lift": 0.020097517708056845,
+        "bet_retention_ratio": 0.5485880152037059,
+        "total_bets_offered": 1077632,
+        "total_bets_taken": 591176
+    }
+}

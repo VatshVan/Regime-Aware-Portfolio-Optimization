@@ -1,0 +1,322 @@
+Feature,Category,TotalMissing,StructuralMissing,WeekendMissing,OtherInternal,CoveragePct,ProbableCause
+ABBV,Equity,3269,3269,0,0,50.97,Unexpected Missing
+ABNB,Equity,5269,5269,0,0,20.98,Unexpected Missing
+ACGL,Equity,3,0,0,3,99.96,Different exchange holiday or halt
+ACN,Equity,389,389,0,0,94.17,Unexpected Missing
+AIZ,Equity,1027,1027,0,0,84.6,Unexpected Missing
+ALGN,Equity,271,271,0,0,95.94,Unexpected Missing
+ALLE,Equity,3491,3491,0,0,47.65,Unexpected Missing
+AMCR,Equity,4372,3111,0,1261,34.43,Different exchange holiday or halt
+AMP,Equity,1433,1433,0,0,78.51,Unexpected Missing
+ANET,Equity,3628,3628,0,0,45.59,Unexpected Missing
+APO,Equity,2827,2827,0,0,57.6,Unexpected Missing
+APP,Equity,5354,5354,0,0,19.71,Unexpected Missing
+APTV,Equity,2989,2989,0,0,55.17,Unexpected Missing
+ARES,Equity,3604,3604,0,0,45.95,Unexpected Missing
+AVGO,Equity,2412,2412,0,0,63.83,Unexpected Missing
+AWK,Equity,2087,2087,0,0,68.7,Unexpected Missing
+AXON,Equity,368,368,0,0,94.48,Unexpected Missing
+BG,Equity,399,399,0,0,94.02,Unexpected Missing
+BIIB,Equity,1,0,0,1,99.99,Different exchange holiday or halt
+BLDR,Equity,1378,1378,0,0,79.33,Unexpected Missing
+BR,Equity,1813,1813,0,0,72.81,Unexpected Missing
+BX,Equity,1877,1877,0,0,71.85,Unexpected Missing
+CARR,Equity,5084,5084,0,0,23.76,Unexpected Missing
+CBOE,Equity,2627,2627,0,0,60.6,Unexpected Missing
+CBRE,Equity,1114,1114,0,0,83.29,Unexpected Missing
+CDW,Equity,3391,3391,0,0,49.15,Unexpected Missing
+CEG,Equity,5547,5547,0,0,16.81,Unexpected Missing
+CF,Equity,1409,1409,0,0,78.87,Unexpected Missing
+CFG,Equity,3704,3704,0,0,44.45,Unexpected Missing
+CHTR,Equity,2522,2516,0,6,62.18,Different exchange holiday or halt
+CME,Equity,735,735,0,0,88.98,Unexpected Missing
+CMG,Equity,1524,1524,0,0,77.14,Unexpected Missing
+CNC,Equity,488,488,0,0,92.68,Unexpected Missing
+COIN,Equity,5353,5353,0,0,19.72,Unexpected Missing
+CPAY,Equity,2755,2755,0,0,58.68,Unexpected Missing
+CRL,Equity,120,120,0,0,98.2,Unexpected Missing
+CRM,Equity,1122,1122,0,0,83.17,Unexpected Missing
+CRWD,Equity,4890,4890,0,0,26.66,Unexpected Missing
+CTVA,Equity,4878,4878,0,0,26.84,Unexpected Missing
+CVNA,Equity,4357,4357,0,0,34.66,Unexpected Missing
+DAL,Equity,1842,1842,0,0,72.38,Unexpected Missing
+DASH,Equity,5268,5268,0,0,21.0,Unexpected Missing
+DDOG,Equity,4959,4959,0,0,25.63,Unexpected Missing
+DECK,Equity,12,0,0,12,99.82,Different exchange holiday or halt
+DELL,Equity,4182,4182,0,0,37.28,Unexpected Missing
+DG,Equity,2482,2482,0,0,62.78,Unexpected Missing
+DLR,Equity,1212,1212,0,0,81.82,Unexpected Missing
+DOW,Equity,4832,4832,0,0,27.53,Unexpected Missing
+DPZ,Equity,1135,1135,0,0,82.98,Unexpected Missing
+DXCM,Equity,1326,1326,0,0,80.11,Unexpected Missing
+ECHO,Equity,2010,2010,0,0,69.86,Unexpected Missing
+ELV,Equity,457,457,0,0,93.15,Unexpected Missing
+EQIX,Equity,154,154,0,0,97.69,Unexpected Missing
+EW,Equity,58,58,0,0,99.13,Unexpected Missing
+EXE,Equity,5310,5310,0,0,20.37,Unexpected Missing
+EXPE,Equity,1394,1394,0,0,79.09,Unexpected Missing
+EXR,Equity,1159,1159,0,0,82.62,Unexpected Missing
+FANG,Equity,3216,3216,0,0,51.77,Unexpected Missing
+FDXF,Equity,6638,6638,0,0,0.45,Unexpected Missing
+FIS,Equity,369,369,0,0,94.47,Unexpected Missing
+FISV,Equity,1,0,0,1,99.99,Different exchange holiday or halt
+FOX,Equity,4827,4827,0,0,27.61,Unexpected Missing
+FOXA,Equity,4826,4826,0,0,27.62,Unexpected Missing
+FSLR,Equity,1730,1730,0,0,74.06,Unexpected Missing
+FTNT,Equity,2485,2485,0,0,62.73,Unexpected Missing
+FTV,Equity,4151,4151,0,0,37.75,Unexpected Missing
+GDDY,Equity,3833,3833,0,0,42.52,Unexpected Missing
+GEHC,Equity,5776,5776,0,0,13.38,Unexpected Missing
+GEV,Equity,6096,6096,0,0,8.58,Unexpected Missing
+GILD,Equity,1,0,0,1,99.99,Different exchange holiday or halt
+GM,Equity,2737,2737,0,0,58.95,Unexpected Missing
+GNRC,Equity,2542,2542,0,0,61.88,Unexpected Missing
+GOOG,Equity,1162,1162,0,0,82.57,Unexpected Missing
+GOOGL,Equity,1162,1162,0,0,82.57,Unexpected Missing
+GPN,Equity,261,261,0,0,96.09,Unexpected Missing
+GRMN,Equity,237,237,0,0,96.45,Unexpected Missing
+HCA,Equity,2813,2813,0,0,57.81,Unexpected Missing
+HII,Equity,2821,2821,0,0,57.69,Unexpected Missing
+HLT,Equity,3508,3508,0,0,47.39,Unexpected Missing
+HONA,Equity,6651,6651,0,0,0.25,Unexpected Missing
+HOOD,Equity,5427,5427,0,0,18.61,Unexpected Missing
+HPE,Equity,3973,3973,0,0,40.42,Unexpected Missing
+HWM,Equity,4235,4235,0,0,36.49,Unexpected Missing
+IBKR,Equity,1844,1843,0,1,72.35,Different exchange holiday or halt
+ICE,Equity,1477,1477,0,0,77.85,Unexpected Missing
+INVH,Equity,4297,4297,0,0,35.56,Unexpected Missing
+IQV,Equity,3357,3357,0,0,49.66,Unexpected Missing
+IR,Equity,4367,4367,0,0,34.51,Unexpected Missing
+ISRG,Equity,115,115,0,0,98.28,Unexpected Missing
+KDP,Equity,2097,2097,0,0,68.55,Unexpected Missing
+KEYS,Equity,3722,3722,0,0,44.18,Unexpected Missing
+KHC,Equity,3899,3899,0,0,41.53,Unexpected Missing
+KKR,Equity,2648,2648,0,0,60.29,Unexpected Missing
+KMI,Equity,2795,2795,0,0,58.08,Unexpected Missing
+KVUE,Equity,5871,5871,0,0,11.95,Unexpected Missing
+LDOS,Equity,1707,1707,0,0,74.4,Unexpected Missing
+LITE,Equity,3912,3912,0,0,41.33,Unexpected Missing
+LULU,Equity,1901,1901,0,0,71.49,Unexpected Missing
+LVS,Equity,1244,1244,0,0,81.34,Unexpected Missing
+LYB,Equity,2594,2594,0,0,61.1,Unexpected Missing
+LYV,Equity,1501,1501,0,0,77.49,Unexpected Missing
+MA,Equity,1607,1607,0,0,75.9,Unexpected Missing
+MDLZ,Equity,364,364,0,0,94.54,Unexpected Missing
+MET,Equity,65,65,0,0,99.03,Unexpected Missing
+META,Equity,3114,3114,0,0,53.3,Unexpected Missing
+MNST,Equity,6,0,0,6,99.91,Different exchange holiday or halt
+MPC,Equity,2887,2887,0,0,56.7,Unexpected Missing
+MPWR,Equity,1227,1227,0,0,81.6,Unexpected Missing
+MRNA,Equity,4763,4763,0,0,28.57,Unexpected Missing
+MRVL,Equity,125,125,0,0,98.13,Unexpected Missing
+MSCI,Equity,1979,1979,0,0,70.32,Unexpected Missing
+NCLH,Equity,3281,3281,0,0,50.79,Unexpected Missing
+NDAQ,Equity,626,624,0,2,90.61,Different exchange holiday or halt
+NFLX,Equity,598,598,0,0,91.03,Unexpected Missing
+NOW,Equity,3143,3143,0,0,52.86,Unexpected Missing
+NRG,Equity,983,983,0,0,85.26,Unexpected Missing
+NWS,Equity,3385,3385,0,0,49.24,Unexpected Missing
+NWSA,Equity,3385,3385,0,0,49.24,Unexpected Missing
+NXPI,Equity,2664,2664,0,0,60.05,Unexpected Missing
+ODFL,Equity,30,0,0,30,99.55,Different exchange holiday or halt
+ON,Equity,83,83,0,0,98.76,Unexpected Missing
+OTIS,Equity,5084,5084,0,0,23.76,Unexpected Missing
+PANW,Equity,3157,3157,0,0,52.65,Unexpected Missing
+PFG,Equity,452,452,0,0,93.22,Unexpected Missing
+PKG,Equity,18,18,0,0,99.73,Unexpected Missing
+PLTR,Equity,5219,5219,0,0,21.73,Unexpected Missing
+PM,Equity,2061,2061,0,0,69.09,Unexpected Missing
+PODD,Equity,1850,1850,0,0,72.26,Unexpected Missing
+PRU,Equity,488,488,0,0,92.68,Unexpected Missing
+PSKY,Equity,1489,1489,0,0,77.67,Unexpected Missing
+PSX,Equity,3088,3088,0,0,53.69,Unexpected Missing
+PYPL,Equity,3899,3899,0,0,41.53,Unexpected Missing
+Q,Equity,6493,6493,0,0,2.62,Unexpected Missing
+SMCI,Equity,1818,1818,0,0,72.74,Unexpected Missing
+SNDK,Equity,6317,6317,0,0,5.26,Unexpected Missing
+SOLV,Equity,6095,6095,0,0,8.59,Unexpected Missing
+STX,Equity,738,738,0,0,88.93,Unexpected Missing
+SW,Equity,4361,2125,0,2236,34.6,Different exchange holiday or halt
+SYF,Equity,3666,3666,0,0,45.02,Unexpected Missing
+TDG,Equity,1557,1557,0,0,76.65,Unexpected Missing
+TEL,Equity,1871,1871,0,0,71.94,Unexpected Missing
+TMUS,Equity,1832,1832,0,0,72.53,Unexpected Missing
+TPL,Equity,1,0,0,1,99.99,Different exchange holiday or halt
+TPR,Equity,193,193,0,0,97.11,Unexpected Missing
+TRGP,Equity,2749,2749,0,0,58.77,Unexpected Missing
+TSLA,Equity,2637,2637,0,0,60.45,Unexpected Missing
+TTD,Equity,4206,4206,0,0,36.92,Unexpected Missing
+TTWO,Equity,16,0,0,16,99.76,Different exchange holiday or halt
+UAL,Equity,1531,1531,0,0,77.04,Unexpected Missing
+UBER,Equity,4868,4868,0,0,26.99,Unexpected Missing
+ULTA,Equity,1964,1964,0,0,70.55,Unexpected Missing
+V,Equity,2063,2063,0,0,69.06,Unexpected Missing
+VEEV,Equity,3468,3468,0,0,47.99,Unexpected Missing
+VICI,Equity,4528,4528,0,0,32.09,Unexpected Missing
+VLTO,Equity,5976,5976,0,0,10.38,Unexpected Missing
+VRSK,Equity,2455,2455,0,0,63.18,Unexpected Missing
+VRT,Equity,4679,4675,0,4,29.83,Different exchange holiday or halt
+VST,Equity,4216,4216,0,0,36.77,Unexpected Missing
+VTR,Equity,1,0,0,1,99.99,Different exchange holiday or halt
+WBD,Equity,1385,1385,0,0,79.23,Unexpected Missing
+WDAY,Equity,3216,3216,0,0,51.77,Unexpected Missing
+WTW,Equity,363,363,0,0,94.56,Unexpected Missing
+WYNN,Equity,706,706,0,0,89.41,Unexpected Missing
+XYL,Equity,2964,2964,0,0,55.55,Unexpected Missing
+XYZ,Equity,3996,3996,0,0,40.07,Unexpected Missing
+ZBH,Equity,393,393,0,0,94.11,Unexpected Missing
+ZTS,Equity,3290,3290,0,0,50.66,Unexpected Missing
+brent_crude_Close,Macro,1957,1902,0,55,70.65,Unexpected Missing
+coffee_futures_Close,Macro,24,0,0,24,99.64,Unexpected Missing
+copper_futures_Close,Macro,185,167,0,18,97.23,Unexpected Missing
+corn_futures_Close,Macro,176,135,0,41,97.36,Unexpected Missing
+cotton_futures_Close,Macro,22,0,0,22,99.67,Unexpected Missing
+gold_Close,Macro,186,167,0,19,97.21,Unexpected Missing
+lumber_futures_Close,Macro,951,924,0,27,85.74,Unexpected Missing
+natural_gas_Close,Macro,182,167,0,15,97.27,Unexpected Missing
+palladium_futures_Close,Macro,463,1,0,462,93.06,Unexpected Missing
+platinum_futures_Close,Macro,702,1,0,701,89.47,Unexpected Missing
+silver_Close,Macro,185,167,0,18,97.23,Unexpected Missing
+soybean_futures_Close,Macro,184,178,0,6,97.24,Unexpected Missing
+sugar_futures_Close,Macro,61,40,0,21,99.09,Unexpected Missing
+wheat_futures_Close,Macro,164,135,0,29,97.54,Unexpected Missing
+wti_crude_Close,Macro,177,162,0,15,97.35,Unexpected Missing
+aud_usd_Close,Macro,1613,1600,0,13,75.81,Unexpected Missing
+dxy_Close,Macro,2,0,0,2,99.97,Unexpected Missing
+eur_usd_Close,Macro,1012,982,0,30,84.82,Unexpected Missing
+gbp_usd_Close,Macro,999,982,0,17,85.02,Unexpected Missing
+nzd_usd_Close,Macro,1005,982,0,23,84.93,Unexpected Missing
+usd_cad_Close,Macro,945,930,0,15,85.83,Unexpected Missing
+usd_chf_Close,Macro,947,930,0,17,85.8,Unexpected Missing
+usd_jpy_Close,Macro,30,0,0,30,99.55,Unexpected Missing
+10y_2y_treasury_spread,Macro,48,0,0,48,99.28,Unexpected Missing
+10y_3m_treasury_spread,Macro,48,0,0,48,99.28,Unexpected Missing
+building_permits,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+capacity_utilization,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+continuing_claims,Macro,6668,0,0,0,0.0,Structural (Empty)
+core_cpi_ex_food_energy,Macro,6467,66,0,6401,3.01,Release Frequency (e.g. Monthly/Quarterly)
+core_pce_price_index,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+core_ppi,Macro,6543,2622,0,3921,1.87,Release Frequency (e.g. Monthly/Quarterly)
+corporate_bond_spread_ice_bofa_ig,Macro,5917,5916,0,1,11.26,Unexpected Missing
+cpi,Macro,6467,66,0,6401,3.01,Release Frequency (e.g. Monthly/Quarterly)
+effective_fed_funds_rate,Macro,1,1,0,0,99.99,Unexpected Missing
+existing_home_sales,Macro,6661,6437,0,224,0.1,Release Frequency (e.g. Monthly/Quarterly)
+fed_total_assets_balance_sheet,Macro,5451,744,0,4707,18.25,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_T10Y2Y,Macro,48,0,0,48,99.28,Unexpected Missing
+fred_macro_combined_T10Y3M,Macro,48,0,0,48,99.28,Unexpected Missing
+fred_macro_combined_PERMIT,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_TCU,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_CCSA,Macro,6668,0,0,0,0.0,Structural (Empty)
+fred_macro_combined_CPILFESL,Macro,6467,66,0,6401,3.01,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_PCEPILFE,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_PPIFES,Macro,6543,2622,0,3921,1.87,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_BAMLC0A0CM,Macro,5917,5916,0,1,11.26,Unexpected Missing
+fred_macro_combined_CPIAUCSL,Macro,6467,66,0,6401,3.01,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_DFF,Macro,1,1,0,0,99.99,Unexpected Missing
+fred_macro_combined_EXHOSLUSM495S,Macro,6661,6437,0,224,0.1,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_WALCL,Macro,5451,744,0,4707,18.25,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_GDP,Macro,6614,628,0,5986,0.81,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_BAMLH0A0HYM2,Macro,5916,5916,0,0,11.28,Unexpected Missing
+fred_macro_combined_HOUST,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_INDPRO,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_ICSA,Macro,6668,0,0,0,0.0,Structural (Empty)
+fred_macro_combined_AMTMNO,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_CIVPART,Macro,6466,46,0,6420,3.03,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_M2SL,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_AAA10Y,Macro,52,1,0,51,99.22,Unexpected Missing
+fred_macro_combined_BAA10Y,Macro,52,1,0,51,99.22,Unexpected Missing
+fred_macro_combined_USREC,Macro,6465,46,0,6419,3.04,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_HSN1F,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_PAYEMS,Macro,6465,46,0,6419,3.04,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_PCEPI,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_PPIACO,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_GDPC1,Macro,6614,628,0,5986,0.81,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_RSAFS,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+fred_macro_combined_RRPONTSYD,Macro,3390,777,0,2613,49.16,Unexpected Missing
+fred_macro_combined_SOFR,Macro,4606,4591,0,15,30.92,Unexpected Missing
+fred_macro_combined_DTWEXBGS,Macro,1575,1512,0,63,76.38,Unexpected Missing
+fred_macro_combined_UNRATE,Macro,6466,46,0,6420,3.03,Release Frequency (e.g. Monthly/Quarterly)
+gdp_nominal,Macro,6614,628,0,5986,0.81,Release Frequency (e.g. Monthly/Quarterly)
+high_yield_spread_ice_bofa,Macro,5916,5916,0,0,11.28,Unexpected Missing
+housing_starts,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+industrial_production_index,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+initial_jobless_claims,Macro,6668,0,0,0,0.0,Structural (Empty)
+ism_manufacturing_pmi_proxy_new_orders,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+labor_force_participation_rate,Macro,6466,46,0,6420,3.03,Release Frequency (e.g. Monthly/Quarterly)
+m2_money_supply,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+moody_s_aaa_corporate_spread,Macro,52,1,0,51,99.22,Unexpected Missing
+moody_s_baa_corporate_spread,Macro,52,1,0,51,99.22,Unexpected Missing
+nber_recession_indicator_usrec,Macro,6465,46,0,6419,3.04,Release Frequency (e.g. Monthly/Quarterly)
+new_home_sales,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+nonfarm_payrolls,Macro,6465,46,0,6419,3.04,Release Frequency (e.g. Monthly/Quarterly)
+pce_price_index,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+ppi_all_commodities,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+real_gdp,Macro,6614,628,0,5986,0.81,Release Frequency (e.g. Monthly/Quarterly)
+retail_sales,Macro,6466,66,0,6400,3.03,Release Frequency (e.g. Monthly/Quarterly)
+reverse_repo_rrp,Macro,3390,777,0,2613,49.16,Unexpected Missing
+sofr,Macro,4606,4591,0,15,30.92,Unexpected Missing
+trade_weighted_broad_dollar_index,Macro,1575,1512,0,63,76.38,Unexpected Missing
+unemployment_rate,Macro,6466,46,0,6420,3.03,Release Frequency (e.g. Monthly/Quarterly)
+asx_200_australia_Close,Macro,143,1,0,142,97.86,Unexpected Missing
+bovespa_brazil_Close,Macro,268,0,0,268,95.98,Unexpected Missing
+cac_40_france_Close,Macro,71,0,0,71,98.94,Unexpected Missing
+csi_300_china_Close,Macro,5427,5334,0,93,18.61,Unexpected Missing
+dax_germany_Close,Macro,112,0,0,112,98.32,Unexpected Missing
+euro_stoxx_50_Close,Macro,1950,1819,0,131,70.76,Unexpected Missing
+ftse_100_uk_Close,Macro,123,1,0,122,98.16,Unexpected Missing
+hang_seng_hong_kong_Close,Macro,308,0,0,308,95.38,Unexpected Missing
+ipc_mexico_Close,Macro,192,0,0,192,97.12,Unexpected Missing
+kospi_south_korea_Close,Macro,344,1,0,343,94.84,Unexpected Missing
+msci_emerging_markets_etf_proxy_eem_Close,Macro,822,822,0,0,87.67,Unexpected Missing
+nikkei_225_japan_Close,Macro,396,1,0,395,94.06,Unexpected Missing
+shanghai_composite_china_Close,Macro,466,1,0,465,93.01,Unexpected Missing
+shenzhen_component_china_Close,Macro,465,1,0,464,93.03,Unexpected Missing
+tsx_composite_canada_Close,Macro,139,1,0,138,97.92,Unexpected Missing
+10y_minus_2y,Macro,49,1,0,48,99.27,Unexpected Missing
+10y_minus_3m,Macro,49,1,0,48,99.27,Unexpected Missing
+1_month_treasury_yield,Macro,445,398,0,47,93.33,Unexpected Missing
+1_year_treasury_yield,Macro,49,1,0,48,99.27,Unexpected Missing
+20_year_treasury_yield,Macro,49,1,0,48,99.27,Unexpected Missing
+30_year_treasury_yield,Macro,49,1,0,48,99.27,Unexpected Missing
+3_year_treasury_yield,Macro,49,1,0,48,99.27,Unexpected Missing
+5_year_treasury_yield,Macro,49,1,0,48,99.27,Unexpected Missing
+6_month_treasury_yield,Macro,49,1,0,48,99.27,Unexpected Missing
+7_year_treasury_yield,Macro,49,1,0,48,99.27,Unexpected Missing
+treasury_yields_combined_10y_minus_2y,Macro,49,1,0,48,99.27,Unexpected Missing
+treasury_yields_combined_10y_minus_3m,Macro,49,1,0,48,99.27,Unexpected Missing
+treasury_yields_combined_DGS1MO,Macro,445,398,0,47,93.33,Unexpected Missing
+treasury_yields_combined_DGS1,Macro,49,1,0,48,99.27,Unexpected Missing
+treasury_yields_combined_DGS20,Macro,49,1,0,48,99.27,Unexpected Missing
+treasury_yields_combined_DGS30,Macro,49,1,0,48,99.27,Unexpected Missing
+treasury_yields_combined_DGS3,Macro,49,1,0,48,99.27,Unexpected Missing
+treasury_yields_combined_DGS5,Macro,49,1,0,48,99.27,Unexpected Missing
+treasury_yields_combined_DGS6MO,Macro,49,1,0,48,99.27,Unexpected Missing
+treasury_yields_combined_DGS7,Macro,49,1,0,48,99.27,Unexpected Missing
+treasury_yields_combined_DGS10,Macro,49,1,0,48,99.27,Unexpected Missing
+treasury_yields_combined_DGS2,Macro,49,1,0,48,99.27,Unexpected Missing
+treasury_yields_combined_DGS3MO,Macro,49,1,0,48,99.27,Unexpected Missing
+us10y,Macro,49,1,0,48,99.27,Unexpected Missing
+us2y,Macro,49,1,0,48,99.27,Unexpected Missing
+us3m,Macro,49,1,0,48,99.27,Unexpected Missing
+russell_1000_Close,Macro,1,0,0,1,99.99,Unexpected Missing
+russell_3000_Close,Macro,29,0,0,29,99.57,Unexpected Missing
+wilshire_5000_Close,Macro,16,4,0,12,99.76,Unexpected Missing
+sp500_hourly_Close,Macro,5938,5938,0,0,10.95,Unexpected Missing
+banks_Close,Macro,1476,1476,0,0,77.86,Unexpected Missing
+biotechnology_Close,Macro,280,280,0,0,95.8,Unexpected Missing
+clean_energy_Close,Macro,2131,2131,0,0,68.04,Unexpected Missing
+cloud_computing_Close,Macro,2894,2894,0,0,56.6,Unexpected Missing
+communication_services_Close,Macro,4644,4644,0,0,30.35,Unexpected Missing
+cybersecurity_Close,Macro,3739,3739,0,0,43.93,Unexpected Missing
+homebuilders_Close,Macro,1531,1531,0,0,77.04,Unexpected Missing
+insurance_Close,Macro,1476,1476,0,0,77.86,Unexpected Missing
+real_estate_Close,Macro,3966,3966,0,0,40.52,Unexpected Missing
+retail_Close,Macro,1626,1626,0,0,75.61,Unexpected Missing
+semiconductors_Close,Macro,106,106,0,0,98.41,Unexpected Missing
+software_Close,Macro,387,387,0,0,94.2,Unexpected Missing
+transportation_Close,Macro,1004,1004,0,0,84.94,Unexpected Missing
+3_month_vix_vix3m_Close,Macro,1646,1646,0,0,75.31,Unexpected Missing
+move_index_Close,Macro,824,722,0,102,87.64,Unexpected Missing
+short_term_vix_vix9d_Close,Macro,2771,2771,0,0,58.44,Unexpected Missing
+vvix_Close,Macro,1768,1759,0,9,73.49,Unexpected Missing
+vxn_Close,Macro,266,266,0,0,96.01,Unexpected Missing

@@ -1,0 +1,17 @@
+{
+    "pipeline_version": "8.0",
+    "n_states": 3,
+    "features": [
+        "sp500_Close",
+        "vix_Close",
+        "us10y"
+    ],
+    "expanding_window_min": 504,
+    "retrain_frequency": 60,
+    "regime_distribution": {
+        "2": 2157,
+        "0": 2023,
+        "1": 1983
+    },
+    "random_seed": 42
+}

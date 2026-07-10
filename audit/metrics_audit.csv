@@ -1,0 +1,6 @@
+Metric,Status,Details
+Primary Accuracy,FAIL,Artificially inflated to 88% due to target leakage (Return feature)
+Meta Accuracy,FAIL,Artificially inflated to 99.8% due to target leakage
+Brier Score,FAIL,Corrupted by leaked data
+ROC-AUC,FAIL,Corrupted by leaked data
+Evaluation Integrity,PASS,Metrics themselves are computed using strictly out-of-sample test folds via inference.py (the flaw is in the data not the math)

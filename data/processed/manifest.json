@@ -1,0 +1,912 @@
+{
+    "brent_crude": {
+        "rows": 4714,
+        "columns": 5,
+        "hash": "7714d923d2667be0f8dc4b1131f17659",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:00.664266"
+    },
+    "coffee_futures": {
+        "rows": 6647,
+        "columns": 5,
+        "hash": "44dbc395d8a2241eace2be791478a89d",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:00.713236"
+    },
+    "copper_futures": {
+        "rows": 6492,
+        "columns": 5,
+        "hash": "30da2ed0dc6a9da2fb60fc2c51b2c9ae",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:00.763789"
+    },
+    "corn_futures": {
+        "rows": 6499,
+        "columns": 5,
+        "hash": "ce384f1de505310db6ecf556580fc2af",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:00.843799"
+    },
+    "cotton_futures": {
+        "rows": 6649,
+        "columns": 5,
+        "hash": "b6cbf769e5006063045913f0d4222d79",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:00.915338"
+    },
+    "gold": {
+        "rows": 6487,
+        "columns": 5,
+        "hash": "70b558ff800a3ac7a58f81c37a2ff888",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:00.958905"
+    },
+    "lumber_futures": {
+        "rows": 5723,
+        "columns": 5,
+        "hash": "4f47d366fa5e1ccb8782c8f62c5735c2",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.005922"
+    },
+    "natural_gas": {
+        "rows": 6493,
+        "columns": 5,
+        "hash": "88b9c2921df29abbe4d4034ad86146f4",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.060495"
+    },
+    "palladium_futures": {
+        "rows": 6210,
+        "columns": 5,
+        "hash": "294252d9747b213784e31f11f0d68beb",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.110765"
+    },
+    "platinum_futures": {
+        "rows": 5971,
+        "columns": 5,
+        "hash": "5b99cfe7f6684bea89e38d6a004c0db8",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.163294"
+    },
+    "silver": {
+        "rows": 6489,
+        "columns": 5,
+        "hash": "a9e4842ce35cee70d446e6919682a37e",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.212425"
+    },
+    "soybean_futures": {
+        "rows": 6491,
+        "columns": 5,
+        "hash": "dc3ff66a4fcaf998525f0a324c9f3d2d",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.277119"
+    },
+    "sugar_futures": {
+        "rows": 6610,
+        "columns": 5,
+        "hash": "c3da2f00c435737016456f70ff501359",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.345126"
+    },
+    "wheat_futures": {
+        "rows": 6511,
+        "columns": 5,
+        "hash": "2638145027a08905e9a8d5bb6be7e3e6",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.405711"
+    },
+    "wti_crude": {
+        "rows": 6496,
+        "columns": 5,
+        "hash": "1e745f6265fe90e5e2384b754b494ea1",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.456304"
+    },
+    "aud_usd": {
+        "rows": 5242,
+        "columns": 5,
+        "hash": "877cd7b4f0d793747697006c745cf353",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.503307"
+    },
+    "dxy": {
+        "rows": 6697,
+        "columns": 5,
+        "hash": "d2cc256e5368750c4aab546394cc6422",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.551310"
+    },
+    "eur_usd": {
+        "rows": 5866,
+        "columns": 5,
+        "hash": "118931b8a743d3e473e191bb93d955d2",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.598832"
+    },
+    "gbp_usd": {
+        "rows": 5878,
+        "columns": 5,
+        "hash": "dedbbdde0ba2a01fe325985a76792f65",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.646858"
+    },
+    "nzd_usd": {
+        "rows": 5867,
+        "columns": 5,
+        "hash": "dea405bae4ce9b06d490b285693daa9b",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.694374"
+    },
+    "usd_cad": {
+        "rows": 5934,
+        "columns": 5,
+        "hash": "19d924a418a7131a4c6a22f6fda55d0f",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.749415"
+    },
+    "usd_chf": {
+        "rows": 5932,
+        "columns": 5,
+        "hash": "2bc3e6f80f2a08b877c20ce6019de4c4",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.794032"
+    },
+    "usd_jpy": {
+        "rows": 6886,
+        "columns": 5,
+        "hash": "281069384c441a68a295ec21fc7febf2",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:01.840147"
+    },
+    "10y_2y_treasury_spread": {
+        "rows": 6919,
+        "columns": 1,
+        "hash": "8bb72f2cd23aecbae6f77aeda9169dfc",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:01.880747"
+    },
+    "10y_3m_treasury_spread": {
+        "rows": 6919,
+        "columns": 1,
+        "hash": "9abcf75e87fc76bd06ba8270b742a345",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:01.918746"
+    },
+    "building_permits": {
+        "rows": 317,
+        "columns": 1,
+        "hash": "19a6965cc42b180b12da231163b20b20",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:01.957034"
+    },
+    "capacity_utilization": {
+        "rows": 317,
+        "columns": 1,
+        "hash": "4650bb10b46faafa1ddeee1709b19d5d",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:01.997034"
+    },
+    "continuing_claims": {
+        "rows": 1383,
+        "columns": 1,
+        "hash": "87368cf433151d4ba0e09194b65f640f",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.037895"
+    },
+    "core_cpi_ex_food_energy": {
+        "rows": 317,
+        "columns": 1,
+        "hash": "99c72819927810014e335a871e2bd69b",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.076938"
+    },
+    "core_pce_price_index": {
+        "rows": 317,
+        "columns": 1,
+        "hash": "2a658ff447640a7944964fb2c73abb42",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.113939"
+    },
+    "core_ppi": {
+        "rows": 194,
+        "columns": 1,
+        "hash": "79410b2e44ef43812c6e3aa59101c097",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.143980"
+    },
+    "corporate_bond_spread_ice_bofa_ig": {
+        "rows": 795,
+        "columns": 1,
+        "hash": "8f7e8ef3ddd565d105b2dce3533f13c5",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.166540"
+    },
+    "cpi": {
+        "rows": 317,
+        "columns": 1,
+        "hash": "a83d0742c2d75786941415e3ab1ac6d5",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.203544"
+    },
+    "effective_fed_funds_rate": {
+        "rows": 9686,
+        "columns": 1,
+        "hash": "0ea60280e9ed2d9cd808259e39abee38",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.253083"
+    },
+    "existing_home_sales": {
+        "rows": 14,
+        "columns": 1,
+        "hash": "4c33b9571aeb37bc024606acb07839dd",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.275287"
+    },
+    "fed_total_assets_balance_sheet": {
+        "rows": 1230,
+        "columns": 1,
+        "hash": "607228ecf2f953ee44e802b6746a001d",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.311270"
+    },
+    "fred_macro_combined": {
+        "rows": 9687,
+        "columns": 34,
+        "hash": "5c008d61981dbd1d10c74d111e00adba",
+        "schema": "Multi_Numeric",
+        "processed_time": "2026-07-10T18:38:02.364789"
+    },
+    "gdp_nominal": {
+        "rows": 105,
+        "columns": 1,
+        "hash": "c07c007ab708e81f996c54a702c65516",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.410803"
+    },
+    "high_yield_spread_ice_bofa": {
+        "rows": 795,
+        "columns": 1,
+        "hash": "6a479a52ded781b3659650fccb4803b7",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.433791"
+    },
+    "housing_starts": {
+        "rows": 317,
+        "columns": 1,
+        "hash": "d99f1d447a0236646977776f53b58ec3",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.478320"
+    },
+    "industrial_production_index": {
+        "rows": 317,
+        "columns": 1,
+        "hash": "89971abaf404c5bdaf800250398a090b",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.513318"
+    },
+    "initial_jobless_claims": {
+        "rows": 1384,
+        "columns": 1,
+        "hash": "f64d35343993c930ccd7658a422c9ebd",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.547363"
+    },
+    "ism_manufacturing_pmi_proxy_new_orders": {
+        "rows": 317,
+        "columns": 1,
+        "hash": "4b7db4b7e888f6da9ee15dade5d01682",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.593893"
+    },
+    "labor_force_participation_rate": {
+        "rows": 318,
+        "columns": 1,
+        "hash": "3884ccd475bfd116caa9131970297028",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.631899"
+    },
+    "m2_money_supply": {
+        "rows": 317,
+        "columns": 1,
+        "hash": "009097aa53a2066dd1bfc3289cc6678b",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.664936"
+    },
+    "moody_s_aaa_corporate_spread": {
+        "rows": 6918,
+        "columns": 1,
+        "hash": "c5cc24878a245c58ee29eb860827bfcc",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.713953"
+    },
+    "moody_s_baa_corporate_spread": {
+        "rows": 6918,
+        "columns": 1,
+        "hash": "be35e765d987a8f4873afa00ed8bad57",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.759525"
+    },
+    "nber_recession_indicator_usrec": {
+        "rows": 318,
+        "columns": 1,
+        "hash": "7cc39068882c4dbc7d94dfc05e44294c",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.814531"
+    },
+    "new_home_sales": {
+        "rows": 317,
+        "columns": 1,
+        "hash": "22a7932cae02a6a319c0656244a0f1b3",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.865167"
+    },
+    "nonfarm_payrolls": {
+        "rows": 318,
+        "columns": 1,
+        "hash": "0e7b595e2b73dfe76c1560392e2cd575",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.920153"
+    },
+    "pce_price_index": {
+        "rows": 317,
+        "columns": 1,
+        "hash": "c358473c0977dee86b4d4f753a9d87c1",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:02.959107"
+    },
+    "ppi_all_commodities": {
+        "rows": 317,
+        "columns": 1,
+        "hash": "ab54aedcedea8bd255a1fd575188f63b",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:03.005016"
+    },
+    "real_gdp": {
+        "rows": 105,
+        "columns": 1,
+        "hash": "7a4971bd3e63208c478e66f18a146282",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:03.054113"
+    },
+    "retail_sales": {
+        "rows": 317,
+        "columns": 1,
+        "hash": "94e10f10b70b483e8da7af58f7e70bb0",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:03.100727"
+    },
+    "reverse_repo_rrp": {
+        "rows": 6110,
+        "columns": 1,
+        "hash": "1faeea191f8e3cbbaf5c80d3de0563f4",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:03.157282"
+    },
+    "sofr": {
+        "rows": 2157,
+        "columns": 1,
+        "hash": "d60a23194e8a09a4163009126c248494",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:03.206431"
+    },
+    "trade_weighted_broad_dollar_index": {
+        "rows": 5349,
+        "columns": 1,
+        "hash": "e7cc48d3b6979454621cc97e2148d0b1",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:03.267408"
+    },
+    "unemployment_rate": {
+        "rows": 318,
+        "columns": 1,
+        "hash": "6453d94b9e344e3b9793c306c9cfbf48",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:03.308066"
+    },
+    "asx_200_australia": {
+        "rows": 6700,
+        "columns": 5,
+        "hash": "7d91436fd5bc6b228a452a17917120bf",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:03.373752"
+    },
+    "bovespa_brazil": {
+        "rows": 6570,
+        "columns": 5,
+        "hash": "22638ae8e6ce4c9568f78dfd78ffd378",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:03.439758"
+    },
+    "cac_40_france": {
+        "rows": 6777,
+        "columns": 5,
+        "hash": "e00239b0d2703eae0c21973c74c8ff34",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:03.503291"
+    },
+    "csi_300_china": {
+        "rows": 1289,
+        "columns": 5,
+        "hash": "203ec8fd6a09e4f79323fb9521f4b8ec",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:03.539291"
+    },
+    "dax_germany": {
+        "rows": 6733,
+        "columns": 5,
+        "hash": "917adc410534102f86455d757320cde9",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:03.599915"
+    },
+    "euro_stoxx_50": {
+        "rows": 4830,
+        "columns": 5,
+        "hash": "756fa4e9c47eb1f54e3d1b87f35a8872",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:03.642943"
+    },
+    "ftse_100_uk": {
+        "rows": 6698,
+        "columns": 5,
+        "hash": "1e598cdc827a439c54fd0fb88dbcc402",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:03.690467"
+    },
+    "hang_seng_hong_kong": {
+        "rows": 6531,
+        "columns": 5,
+        "hash": "c8f091422ef3f0aa30704bbad5dbf614",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:03.737468"
+    },
+    "ipc_mexico": {
+        "rows": 6656,
+        "columns": 5,
+        "hash": "6d8fdf20df697a07f799af52ee70c2da",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:03.791002"
+    },
+    "kospi_south_korea": {
+        "rows": 6530,
+        "columns": 5,
+        "hash": "819810879e69b897d7aa1b9518d2ec80",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:03.842995"
+    },
+    "msci_emerging_markets_etf_proxy_eem": {
+        "rows": 5846,
+        "columns": 5,
+        "hash": "7754033313a4cfd57c2eb9244e5ecd7c",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:03.885282"
+    },
+    "nikkei_225_japan": {
+        "rows": 6495,
+        "columns": 5,
+        "hash": "80344d89a24e0ebb3d994aff5420075c",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:03.937211"
+    },
+    "shanghai_composite_china": {
+        "rows": 6418,
+        "columns": 5,
+        "hash": "d01355e6d8ee54bf5b27caeb8003ef87",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:03.981729"
+    },
+    "shenzhen_component_china": {
+        "rows": 6420,
+        "columns": 5,
+        "hash": "a24d05010d8b1f97b7903c4b8e659ba1",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:04.036737"
+    },
+    "tsx_composite_canada": {
+        "rows": 6661,
+        "columns": 5,
+        "hash": "23595cb4c351ffb888bcf872045900b5",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:04.143308"
+    },
+    "10y_minus_2y": {
+        "rows": 6918,
+        "columns": 1,
+        "hash": "fe19c3fcd74154b7a02c55cdf975b38c",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:04.182939"
+    },
+    "10y_minus_3m": {
+        "rows": 6918,
+        "columns": 1,
+        "hash": "f4706a300b7be83b425e2378690627de",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:04.222920"
+    },
+    "1_month_treasury_yield": {
+        "rows": 6507,
+        "columns": 1,
+        "hash": "ebb10fd0b2b461e98079be03196401a7",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:04.262444"
+    },
+    "1_year_treasury_yield": {
+        "rows": 6918,
+        "columns": 1,
+        "hash": "4dba4e201c44516fc682110996435449",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:04.303780"
+    },
+    "20_year_treasury_yield": {
+        "rows": 6918,
+        "columns": 1,
+        "hash": "d3cd76c6721ca4df80e75b59728033cd",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:04.354691"
+    },
+    "30_year_treasury_yield": {
+        "rows": 6918,
+        "columns": 1,
+        "hash": "1baf1e5a5dbd3e2b21114ce217412c89",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:04.408988"
+    },
+    "3_year_treasury_yield": {
+        "rows": 6918,
+        "columns": 1,
+        "hash": "557f1235d9129f8ee7fb11ffaf1d8608",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:04.460525"
+    },
+    "5_year_treasury_yield": {
+        "rows": 6918,
+        "columns": 1,
+        "hash": "d7a8c770285c1ed2f58ef7f6e51343fc",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:04.499519"
+    },
+    "6_month_treasury_yield": {
+        "rows": 6918,
+        "columns": 1,
+        "hash": "d2e13cf565f7ae5fd4b26887a121e2f5",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:04.537519"
+    },
+    "7_year_treasury_yield": {
+        "rows": 6918,
+        "columns": 1,
+        "hash": "b75f696ec7218b44c9c5d7616280aba3",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:04.577042"
+    },
+    "treasury_yields_combined": {
+        "rows": 6918,
+        "columns": 13,
+        "hash": "7b774689d053a019abd77bfa4d05f6dc",
+        "schema": "Multi_Numeric",
+        "processed_time": "2026-07-10T18:38:04.644081"
+    },
+    "us10y": {
+        "rows": 6918,
+        "columns": 1,
+        "hash": "3217f7a6da74dd59045d3b8e928a3761",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:04.692608"
+    },
+    "us2y": {
+        "rows": 6918,
+        "columns": 1,
+        "hash": "f8b9fc4e7463d2acdc239fff2986ab3f",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:04.737611"
+    },
+    "us3m": {
+        "rows": 6918,
+        "columns": 1,
+        "hash": "a6a23a4a7ecd8b01cb01cf557eb71a37",
+        "schema": "Single_Numeric",
+        "processed_time": "2026-07-10T18:38:04.788210"
+    },
+    "dow_jones": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:04.835188"
+    },
+    "nasdaq_100": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:04.884693"
+    },
+    "nasdaq_composite": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:04.933705"
+    },
+    "nyse_composite": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:04.982256"
+    },
+    "russell_1000": {
+        "rows": 6667,
+        "columns": 5,
+        "hash": "ef3bd65840a6ab477efd3ceeda741f94",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.032981"
+    },
+    "russell_2000": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.082607"
+    },
+    "russell_3000": {
+        "rows": 6639,
+        "columns": 5,
+        "hash": "ad4a62dd8b619e5a59ca5d6afab78dff",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.149612"
+    },
+    "sp500": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.202148"
+    },
+    "s_p_100": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.253144"
+    },
+    "s_p_midcap_400": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.306856"
+    },
+    "s_p_smallcap_600": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.362429"
+    },
+    "wilshire_5000": {
+        "rows": 6652,
+        "columns": 5,
+        "hash": "82343603f4346d222b05be7556b5ed87",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.410431"
+    },
+    "sp500_hourly": {
+        "rows": 730,
+        "columns": 5,
+        "hash": "6f0073e993c707bcb3203d3168fb6f3e",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.498364"
+    },
+    "banks": {
+        "rows": 5192,
+        "columns": 5,
+        "hash": "d6b357ce5f6e57daabfb4b07e47851a1",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.549391"
+    },
+    "biotechnology": {
+        "rows": 6388,
+        "columns": 5,
+        "hash": "a171cf027c0260f12958767c16816fe3",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.609908"
+    },
+    "clean_energy": {
+        "rows": 4537,
+        "columns": 5,
+        "hash": "5590311c3ea901e2a10efc5c4e91638d",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.651921"
+    },
+    "cloud_computing": {
+        "rows": 3774,
+        "columns": 5,
+        "hash": "831b309f3182429f75af78c798ec2e0a",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.697452"
+    },
+    "communication_services": {
+        "rows": 2024,
+        "columns": 5,
+        "hash": "28b3218e89f75f08b1f72d0be0a25db9",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.734447"
+    },
+    "consumer_discretionary": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.791343"
+    },
+    "consumer_staples": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.841343"
+    },
+    "cybersecurity": {
+        "rows": 2929,
+        "columns": 5,
+        "hash": "5adad862f6229ee9549d790ec73d31f1",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.888871"
+    },
+    "energy": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.936871"
+    },
+    "financials": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:05.992411"
+    },
+    "healthcare": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:06.058983"
+    },
+    "homebuilders": {
+        "rows": 5137,
+        "columns": 5,
+        "hash": "b1df40081fd768ace49c34ca50106410",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:06.128987"
+    },
+    "industrials": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:06.187126"
+    },
+    "insurance": {
+        "rows": 5192,
+        "columns": 5,
+        "hash": "d6b357ce5f6e57daabfb4b07e47851a1",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:06.248927"
+    },
+    "materials": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:06.298669"
+    },
+    "real_estate": {
+        "rows": 2702,
+        "columns": 5,
+        "hash": "bad62d18ab35970c081cfc251d91ebcd",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:06.334673"
+    },
+    "retail": {
+        "rows": 5042,
+        "columns": 5,
+        "hash": "9281778f63eef9c1d11e8150d2ec50e7",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:06.383246"
+    },
+    "semiconductors": {
+        "rows": 6562,
+        "columns": 5,
+        "hash": "ed32905a04f1b8595eacb8d97e2d7b2e",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:06.433246"
+    },
+    "software": {
+        "rows": 6281,
+        "columns": 5,
+        "hash": "8306632e04047b4e77bc8c112312e206",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:06.478772"
+    },
+    "technology": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:06.526797"
+    },
+    "transportation": {
+        "rows": 5664,
+        "columns": 5,
+        "hash": "b416db4880472064ed86bd0a9f94647f",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:06.578327"
+    },
+    "utilities": {
+        "rows": 6668,
+        "columns": 5,
+        "hash": "c3c7f978698c0c737ddd6a462bb32acc",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:06.639475"
+    },
+    "sp500_constituents_daily": {
+        "rows": 2931354,
+        "columns": 6,
+        "hash": "ad1f38e0d41eb0fa77a9e88a2038167d",
+        "schema": "Equity_Long",
+        "processed_time": "2026-07-10T18:38:10.479201"
+    },
+    "sp500_constituents_hourly": {
+        "rows": 2495037,
+        "columns": 6,
+        "hash": "48fe6944f50a435d3a8dfa671ebd5408",
+        "schema": "Equity_Long",
+        "processed_time": "2026-07-10T18:38:22.012342"
+    },
+    "3_month_vix_vix3m": {
+        "rows": 5022,
+        "columns": 5,
+        "hash": "c17179aed3ec5e2f6a4e0f9f020291bf",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:25.345252"
+    },
+    "move_index": {
+        "rows": 5844,
+        "columns": 5,
+        "hash": "ecf630d731394e1e06f59d6cd9bfa499",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:25.393774"
+    },
+    "short_term_vix_vix9d": {
+        "rows": 3897,
+        "columns": 5,
+        "hash": "74ffeaf7748ce635330137b2e514f94f",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:25.441830"
+    },
+    "vix": {
+        "rows": 6669,
+        "columns": 5,
+        "hash": "c939e1f0831b711ef1b4797a33e4abd4",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:25.514683"
+    },
+    "vvix": {
+        "rows": 4900,
+        "columns": 5,
+        "hash": "34bdbbc510f521b443ac981211ec5f35",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:25.585342"
+    },
+    "vxn": {
+        "rows": 6402,
+        "columns": 5,
+        "hash": "9d026c09fa439b6ac35027ec9055682a",
+        "schema": "OHLCV",
+        "processed_time": "2026-07-10T18:38:25.636460"
+    }
+}

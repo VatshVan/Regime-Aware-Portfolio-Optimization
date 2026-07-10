@@ -1,0 +1,7 @@
+Component,Status,Details
+HMM Feature Selection,PASS,Only macro variables used
+HMM Forward Fill,PASS,Missing data filled strictly forward
+Scaling,PASS,StandardScaler fit exclusively on expanding window X_raw[:t]
+Model Training,PASS,GaussianHMM fit exclusively on expanding window X_train
+Probability Inference,PASS,predict_proba evaluated only on X_eval (up to t) and probability extracted for last state (probs[-1])
+Label Switching,PASS,Trace-variance sorting correctly aligns regimes deterministically

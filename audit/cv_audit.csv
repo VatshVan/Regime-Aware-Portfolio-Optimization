@@ -1,0 +1,6 @@
+Component,Status,Details
+Fold Splitting,PASS,Dates are strictly sorted and sliced contiguously
+Train/Test Intersection,PASS,Zero overlapping dates between train mask and test mask
+Purging,PASS,Overlap mask accurately removes train indices where (EventTime <= test_end) AND (ExitTime >= test_start)
+Embargo,PASS,Embargo correctly spans test_end to embargo_end removing subsequent training overlaps
+Data Leakage,PASS,Index slicing isolates testing perfectly

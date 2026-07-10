@@ -1,0 +1,8 @@
+Component,Status,Details
+Triple Barrier Labels,PASS,Joined strictly on Datetime (normalized EventTime) and Ticker
+Fractional Diff Features,PASS,Joined strictly on Datetime and Ticker
+Daily Volatility,PASS,Joined strictly on Datetime and Ticker
+Macro Features,PASS,Joined safely on Datetime Level 0
+Regime Labels (HMM),PASS,Joined safely on Datetime Level 0
+Sample Weights,PASS,Joined strictly on EventTime and Ticker
+Target Leakage,FAIL,"ExitPrice, ExitTime, Return, HoldingPeriod, and ProfitBarrier from labels_df are inadvertently included in the features_df during the merge in Stage 9 due to a missing exclusion filter."
